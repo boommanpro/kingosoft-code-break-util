@@ -25,3 +25,11 @@ CodeBreak.codeBreak(in);
 ```java
 Class.forName("com.boommanpro.codebreak.cache.TrainImageCache");
 ```
+
+## 使用本项目示例
+
+[kingsoft-code-break-server](https://github.com/BoomManPro/kingsoft-code-break-server)
+
+## 使用须知
+
+感谢大家使用该项目，如果该项目帮助到了你，请点一个start
