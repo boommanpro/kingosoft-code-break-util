@@ -33,3 +33,6 @@ Class.forName("com.boommanpro.codebreak.cache.TrainImageCache");
 ## 使用须知
 
 感谢大家使用该项目，如果该项目帮助到了你，请点一个start
+
+<img src="https://raw.githubusercontent.com/BoomManPro/java-interview/master/personal/Ali_Pay.jpg" width="300" hegiht="200" align=center />
+<img src="https://raw.githubusercontent.com/BoomManPro/java-interview/master/personal/WeChat_Pay.jpg" width="400" hegiht="1000" align=center />
