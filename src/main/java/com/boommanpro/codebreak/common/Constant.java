@@ -9,8 +9,10 @@ public class Constant {
     /**
      *
      */
-    private static final String RES_DIR_PATH =  "/res/";
-    public static final String TRAIN_DIR_PATH =RES_DIR_PATH + "/train/";
+
+    public static final String TRAIN_DIR_PATH = "/train/";
+
+    public static final String TRAIN_CONFIG = "/train_config.json";
 
     /**
      * 训练了4次,如识别效果不佳，加大训练量，需增加此配置
