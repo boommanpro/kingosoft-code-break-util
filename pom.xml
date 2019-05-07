@@ -8,8 +8,28 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>code-break</name>
-	<description>Demo project for Spring Boot</description>
+	<name>kingosoft-code-break-util</name>
+	<description>青果教务系统验证码识别</description>
+	<url>https://github.com/BoomManPro/kingosoft-code-break-util</url>
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>BoomManPro</name>
+			<email>l.o.v.e_y.o.u_3344@qq.com</email>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
+		<developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
+		<url>https://github.com/BoomManPro/kingosoft-code-break-util</url>
+	</scm>
 
 
 	<properties>
