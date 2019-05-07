@@ -26,8 +26,8 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-		<developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
+		<connection>scm:git:https://github.com/BoomManPro/kingosoft-code-break-util</connection>
+		<developerConnection>scm:git:https://github.com/BoomManPro/kingosoft-code-break-util</developerConnection>
 		<url>https://github.com/BoomManPro/kingosoft-code-break-util</url>
 	</scm>
 
