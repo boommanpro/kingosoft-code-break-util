@@ -1,4 +1,4 @@
-package com.boommanpro.codebreak.common;
+package cn.boommanpro.codebreak.common;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

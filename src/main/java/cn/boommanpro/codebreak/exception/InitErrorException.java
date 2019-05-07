@@ -1,4 +1,4 @@
-package com.boommanpro.codebreak.exception;
+package cn.boommanpro.codebreak.exception;
 
 public class InitErrorException extends RuntimeException{
     public InitErrorException() {

@@ -1,12 +1,9 @@
-package com.boommanpro.codebreak.core;
+package cn.boommanpro.codebreak.core;
 
-import com.boommanpro.codebreak.common.Constant;
 import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
-
-import static org.junit.Assert.*;
 
 public class CodeBreakTest {
 

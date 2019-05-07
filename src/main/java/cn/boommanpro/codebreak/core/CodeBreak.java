@@ -1,9 +1,6 @@
-package com.boommanpro.codebreak.core;
+package cn.boommanpro.codebreak.core;
 
 
-
-import com.boommanpro.codebreak.core.ImageCompareUtil;
-import com.boommanpro.codebreak.core.ImageHandleUtil;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

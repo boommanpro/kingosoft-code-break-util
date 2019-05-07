@@ -1,6 +1,6 @@
-package com.boommanpro.codebreak.core;
+package cn.boommanpro.codebreak.core;
 
-import com.boommanpro.codebreak.cache.TrainImageCache;
+import cn.boommanpro.codebreak.cache.TrainImageCache;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

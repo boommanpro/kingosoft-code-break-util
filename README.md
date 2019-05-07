@@ -23,7 +23,7 @@ CodeBreak.codeBreak(in);
 
 因首次使用需要加载图片缓存,使用如下方法在项目启动可以加速初次使用
 ```java
-Class.forName("com.boommanpro.codebreak.cache.TrainImageCache");
+Class.forName("TrainImageCache");
 ```
 
 ## 使用本项目示例

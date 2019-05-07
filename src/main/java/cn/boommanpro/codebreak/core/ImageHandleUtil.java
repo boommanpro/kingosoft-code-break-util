@@ -1,4 +1,4 @@
-package com.boommanpro.codebreak.core;
+package cn.boommanpro.codebreak.core;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
