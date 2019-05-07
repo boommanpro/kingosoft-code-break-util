@@ -2,21 +2,18 @@
 
 ## 使用方式
 
-1.引入依赖
+1.通过maven引入依赖
 
-2.开始使用
 
-```java
-InputStream in;
-CodeBreak.codeBreak(in);
+
+```html
+<dependency>
+  <groupId>cn.boommanpro</groupId>
+  <artifactId>kingosoft-code-break-util</artifactId>
+  <version>1.0.0.RELEASE</version>
+</dependency>
 ```
 
-
-1.引入依赖方式
-
-在release中下载依赖jar包
-
-2.使用Maven引入依赖 待加入
 
 
 ## 启动加速
